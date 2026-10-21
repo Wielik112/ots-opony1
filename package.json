@@ -1,0 +1,13 @@
+{
+  "name": "ots-opony-tir-serwis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Strona internetowa OTS Opony TIR Serwis — Bartłomiej Adamczyk, Przyborów",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && node scripts/serve.js",
+    "start": "node scripts/serve.js"
+  }
+}

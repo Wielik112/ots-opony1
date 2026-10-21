@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "mobilny-serwis-opon",
+    "nazwa": "Mobilny serwis opon",
+    "krotko": "Przyjeżdżamy w pełni wyposażonym busem tam, gdzie stoi pojazd: na trasę, plac budowy, pole albo pod dom.",
+    "seoTytul": "Mobilny serwis opon i pomoc drogowa — Nowa Sól, Przyborów, S3",
+    "seoOpis": "Mobilna wulkanizacja z dojazdem: osobowe, dostawcze, TIR, naczepy, maszyny rolnicze i budowlane. Awaria opony na trasie S3 lub w okolicy Nowej Soli? Zadzwoń: 530 555 180.",
+    "zdjecie": "serwis-mobilny-naczepa",
+    "zdjecieAlt": "Bus mobilnego serwisu opon OTS przy naczepie ciężarowej na placu",
+    "lead": "Złapana guma w naczepie, przebita opona w koparce, auto bez koła zapasowego pod domem — nie musisz nigdzie jechać. Bus OTS to warsztat na kołach: montażownica, kompresor i narzędzia pneumatyczne, a w razie potrzeby zabieramy nową oponę.",
+    "zakres": [
+      "Wymiana i naprawa opon na miejscu postoju pojazdu",
+      "Pomoc przy awarii opony na trasie S3 i drogach w okolicy Nowej Soli",
+      "Obsługa ciągników siodłowych, naczep i przyczep",
+      "Opony maszyn budowlanych i rolniczych w terenie",
+      "Sezonowa wymiana opon pod domem lub w firmie",
+      "Obsługa flot — kilka pojazdów podczas jednego przyjazdu"
+    ],
+    "dla": ["Osobowe", "Dostawcze", "TIR i naczepy", "Rolnicze", "Budowlane"],
+    "kroki": [
+      { "t": "Dzwonisz lub wysyłasz zgłoszenie", "o": "Podajesz pojazd, rozmiar opony i miejsce. Formularz zgłoszenia może dołączyć Twoją lokalizację z telefonu." },
+      { "t": "Ustalamy czas dojazdu", "o": "Od razu mówimy, kiedy będziemy na miejscu i czy zabieramy nową oponę." },
+      { "t": "Naprawiamy na miejscu", "o": "Wymiana, naprawa, pompowanie i kontrola dokręcenia kół — bez holowania." }
+    ]
+  },
+  {
+    "slug": "opony-ciezarowe-tir",
+    "nazwa": "Opony ciężarowe i TIR",
+    "krotko": "Ciągniki siodłowe, naczepy, przyczepy i busy. Montaż, naprawa i sprzedaż opon ciężarowych — w warsztacie albo na trasie.",
+    "seoTytul": "Opony ciężarowe TIR — serwis, naprawa, sprzedaż | Nowa Sól, S3",
+    "seoOpis": "Serwis opon ciężarowych: ciągniki siodłowe, naczepy, przyczepy, busy. Wymiana i naprawa opon TIR w warsztacie w Przyborowie lub z dojazdem na trasę S3.",
+    "zdjecie": "naczepa-serwis-opon",
+    "zdjecieAlt": "Naczepa ciężarowa podczas wymiany opon przy warsztacie OTS",
+    "lead": "Postój ciężarówki kosztuje. Dlatego opony ciężarowe to nasza specjalność — nie bez powodu „TIR” jest w nazwie firmy. Działamy szybko, w warsztacie lub tam, gdzie stanął zestaw.",
+    "zakres": [
+      "Montaż i demontaż opon ciężarowych",
+      "Naprawa przebić opon ciężarowych",
+      "Wymiana opon w naczepach i przyczepach — także na trasie",
+      "Sprzedaż nowych opon ciężarowych na oś prowadzącą, napędową i naczepową",
+      "Kontrola ciśnienia i stanu bieżnika w całym zestawie",
+      "Obsługa firm transportowych i flot"
+    ],
+    "dla": ["Ciągniki siodłowe", "Naczepy", "Przyczepy", "Busy"],
+    "kroki": [
+      { "t": "Podaj rozmiar i oś", "o": "Np. 385/65 R22.5 na naczepę. Jeśli nie wiesz — wystarczy zdjęcie boku opony." },
+      { "t": "Dobieramy oponę", "o": "Proponujemy kilka wariantów cenowych i mówimy, kiedy opona będzie na miejscu." },
+      { "t": "Montaż w warsztacie lub w trasie", "o": "Wybierasz, co jest szybsze dla Twojego kierowcy i harmonogramu." }
+    ]
+  },
+  {
+    "slug": "opony-osobowe-i-dostawcze",
+    "nazwa": "Opony osobowe, SUV i dostawcze",
+    "krotko": "Sezonowa wymiana opon, wyważanie kół, naprawa przebić i montaż felg — także dużych, niskoprofilowych rozmiarów.",
+    "seoTytul": "Wymiana opon i wyważanie kół — osobowe, SUV, dostawcze | Przyborów, Nowa Sól",
+    "seoOpis": "Sezonowa wymiana opon, precyzyjne wyważanie, naprawa przebić, montaż felg aluminiowych i opon niskoprofilowych. Warsztat w Przyborowie koło Nowej Soli lub dojazd do klienta.",
+    "zdjecie": "warsztat-wymiana-opon",
+    "zdjecieAlt": "Samochód osobowy na podnośniku podczas wymiany opon w warsztacie OTS",
+    "lead": "Zmiana opon na zimowe lub letnie, dokładne wyważenie kół, które w końcu nie biją na kierownicy, i szybka naprawa przebitej opony. Dbamy o felgi — także te duże i drogie.",
+    "zakres": [
+      "Sezonowa wymiana opon i kompletów kół",
+      "Precyzyjne wyważanie kół",
+      "Naprawa przebitych opon",
+      "Montaż opon niskoprofilowych na felgach aluminiowych",
+      "Kontrola ciśnienia, bieżnika i wieku opon",
+      "Dojazd z wymianą sezonową pod dom lub do firmy"
+    ],
+    "dla": ["Osobowe", "SUV", "Sportowe", "Dostawcze"],
+    "kroki": [
+      { "t": "Umawiasz termin", "o": "Telefonicznie albo przez formularz — wybierasz dzień i porę." },
+      { "t": "Przyjeżdżasz lub my przyjeżdżamy", "o": "Warsztat w Przyborowie albo mobilny serwis pod Twoim adresem." },
+      { "t": "Odjeżdżasz z wyważonymi kołami", "o": "Na koniec dokręcamy koła z właściwym momentem i sprawdzamy ciśnienie." }
+    ]
+  },
+  {
+    "slug": "opony-rolnicze-i-budowlane",
+    "nazwa": "Opony rolnicze i budowlane",
+    "krotko": "Ciągniki, przyczepy rolnicze, ładowarki i koparki kołowe. Duże koła serwisujemy w warsztacie i bezpośrednio w polu.",
+    "seoTytul": "Opony rolnicze i do maszyn budowlanych — serwis z dojazdem | Nowa Sól",
+    "seoOpis": "Wymiana i naprawa opon ciągników, przyczep rolniczych, ładowarek i koparek kołowych. Mobilny serwis w polu i na budowie w okolicy Nowej Soli.",
+    "zdjecie": "serwis-mobilny-koparka",
+    "zdjecieAlt": "Mobilny serwis OTS wymienia oponę koparki kołowej na placu budowy",
+    "lead": "Sezon nie czeka, a maszyna z przebitą oponą stoi. Przyjeżdżamy na pole i na budowę — także w trudnym terenie — i robimy to, co trzeba, żeby praca ruszyła dalej.",
+    "zakres": [
+      "Montaż i naprawa opon ciągników rolniczych",
+      "Opony przyczep rolniczych i maszyn towarzyszących",
+      "Opony koparek kołowych i ładowarek",
+      "Serwis w terenie: w polu, na budowie, na placu",
+      "Doradztwo w doborze opon do warunków pracy"
+    ],
+    "dla": ["Ciągniki", "Przyczepy rolnicze", "Koparki kołowe", "Ładowarki"],
+    "kroki": [
+      { "t": "Opisz maszynę i miejsce", "o": "Zdjęcie opony i pinezka z lokalizacją wystarczą, żeby się przygotować." },
+      { "t": "Przyjeżdżamy z narzędziami", "o": "Montażownica i sprzęt do dużych kół jadą z nami." },
+      { "t": "Maszyna wraca do pracy", "o": "Naprawa lub wymiana na miejscu, bez transportu koła do warsztatu." }
+    ]
+  },
+  {
+    "slug": "sprzedaz-opon-i-felg",
+    "nazwa": "Sprzedaż opon i felg",
+    "krotko": "Nowe opony letnie, zimowe i całoroczne oraz felgi aluminiowe. Doradzimy rozmiar, dobierzemy budżet i od razu zamontujemy.",
+    "seoTytul": "Sprzedaż opon i felg aluminiowych z montażem | Przyborów, Nowa Sól",
+    "seoOpis": "Nowe opony letnie, zimowe, całoroczne, ciężarowe i rolnicze oraz felgi aluminiowe. Dobór, dobre ceny i montaż na miejscu w Przyborowie koło Nowej Soli.",
+    "zdjecie": "opony-zimowe-magazyn",
+    "zdjecieAlt": "Nowe opony zimowe na magazynie warsztatu OTS",
+    "lead": "Klienci najczęściej piszą o jednym: ceny opon bez porównania z innymi. Dobieramy opony w kilku przedziałach cenowych i sprowadzamy brakujące rozmiary. Kupujesz — montujemy od razu.",
+    "zakres": [
+      "Opony letnie, zimowe i całoroczne do aut osobowych i SUV",
+      "Opony dostawcze, ciężarowe i rolnicze",
+      "Felgi aluminiowe — dobór do auta i montaż",
+      "Kilka wariantów cenowych: od ekonomicznych po premium",
+      "Montaż i wyważenie przy zakupie kompletu"
+    ],
+    "dla": ["Letnie", "Zimowe", "Całoroczne", "Ciężarowe", "Felgi aluminiowe"],
+    "kroki": [
+      { "t": "Podaj rozmiar opony", "o": "Znajdziesz go na boku opony, np. 205/55 R16 91V. Pomoże w tym dekoder w poradniku." },
+      { "t": "Wybierz wariant", "o": "Przedstawiamy kilka propozycji w różnych cenach, z uczciwą opinią o każdej." },
+      { "t": "Montaż od ręki", "o": "Opony zakładamy i wyważamy przy odbiorze — jedna wizyta i gotowe." }
+    ]
+  }
+]

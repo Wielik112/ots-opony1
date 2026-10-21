@@ -1,0 +1,13 @@
+[
+  { "plik": "serwis-mobilny-naczepa", "alt": "Mobilny serwis przy naczepie ciężarowej i ładowarce na placu", "kategoria": "Serwis mobilny", "w": 680, "h": 510 },
+  { "plik": "warsztat-opony-felgi", "alt": "Felga sportowa z nową oponą na tle magazynu opon", "kategoria": "Warsztat", "w": 383, "h": 510 },
+  { "plik": "serwis-mobilny-koparka", "alt": "Wymiana opony koparki kołowej na budowie", "kategoria": "Maszyny", "w": 680, "h": 510 },
+  { "plik": "opona-rolnicza-montaz", "alt": "Montaż dużej opony rolniczej na montażownicy", "kategoria": "Maszyny", "w": 680, "h": 510 },
+  { "plik": "naczepa-serwis-opon", "alt": "Naczepa ciężarowa podczas serwisu opon", "kategoria": "TIR", "w": 408, "h": 510 },
+  { "plik": "warsztat-wymiana-opon", "alt": "Samochód osobowy podczas wymiany opon w warsztacie", "kategoria": "Warsztat", "w": 680, "h": 510 },
+  { "plik": "felga-aluminiowa", "alt": "Felga aluminiowa na montażownicy", "kategoria": "Warsztat", "w": 382, "h": 510 },
+  { "plik": "serwis-mobilny-dojazd", "alt": "Bus serwisu mobilnego pod domem klienta podczas wymiany opon", "kategoria": "Serwis mobilny", "w": 680, "h": 510 },
+  { "plik": "wymiana-opon-suv", "alt": "Nowe koło SUV-a przygotowane do montażu", "kategoria": "Warsztat", "w": 680, "h": 510 },
+  { "plik": "opony-zimowe-magazyn", "alt": "Nowe opony zimowe na magazynie", "kategoria": "Opony", "w": 382, "h": 510 },
+  { "plik": "serwis-mobilny-noc", "alt": "Bus serwisu mobilnego w nocy z włączonym światłem ostrzegawczym", "kategoria": "Serwis mobilny", "w": 480, "h": 290 }
+]

@@ -1,0 +1,45 @@
+{
+  "_info": "Główne dane firmy. Zmiana tutaj aktualizuje całą stronę (nagłówek, stopkę, kontakt, dane dla Google).",
+
+  "siteUrl": "",
+  "_siteUrl": "Wpisz docelowy adres strony, np. https://www.otsopony.pl — puste = Vercel podstawi adres automatycznie.",
+
+  "nazwa": "OTS Opony TIR Serwis",
+  "nazwaPelna": "OTS Opony TIR Serwis Bartłomiej Adamczyk",
+  "wlasciciel": "Bartłomiej Adamczyk",
+  "telefon": "530555180",
+  "telefonWyswietlany": "530 555 180",
+  "whatsapp": "48530555180",
+  "email": "",
+  "_email": "Opcjonalnie: adres e-mail. Jeśli zostanie pusty, nie pojawi się na stronie.",
+
+  "adres": {
+    "ulica": "Podgórna 3",
+    "kod": "67-100",
+    "miejscowosc": "Przyborów",
+    "gmina": "gmina Nowa Sól",
+    "wojewodztwo": "lubuskie",
+    "kraj": "PL"
+  },
+
+  "mapaZapytanie": "OTS Opony TIR Serwis Bartłomiej Adamczyk, Podgórna 3, 67-100 Przyborów",
+
+  "godziny": [],
+  "_godziny": "Wpisz godziny, a strona sama pokaże tabelę i znacznik „Teraz otwarte”. Format: { \"dni\": [1,2,3,4,5], \"od\": \"08:00\", \"do\": \"17:00\" } — 1 = poniedziałek, 7 = niedziela. Przykład: [{\"dni\":[1,2,3,4,5],\"od\":\"08:00\",\"do\":\"17:00\"},{\"dni\":[6],\"od\":\"08:00\",\"do\":\"13:00\"}]",
+
+  "ocena": { "wartosc": "5,0", "liczba": 84, "zrodlo": "Google" },
+  "ocenaDodatkowa": { "wartosc": "4,9", "liczba": 80, "zrodlo": "Infobel" },
+  "obserwujacyFacebook": "1,8 tys.",
+
+  "linki": {
+    "facebook": "https://www.facebook.com/profile.php?id=100000720612907",
+    "opinieGoogle": "https://www.google.com/maps/search/?api=1&query=OTS+Opony+TIR+Serwis+Bart%C5%82omiej+Adamczyk+Przybor%C3%B3w",
+    "infobel": "https://www.infobel.com/pl/poland/ots_opony_tir_serwis_bartlomiej_adamczyk/nowa_sol/PL104693909/businessdetails.aspx"
+  },
+
+  "obszar": [
+    "Przyborów", "Nowa Sól", "Otyń", "Kożuchów", "Bytom Odrzański", "Siedlisko",
+    "Nowe Miasteczko", "Kolsko", "Zielona Góra", "Sulechów", "Sława",
+    "Głogów", "trasa S3"
+  ]
+}
