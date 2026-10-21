@@ -24,6 +24,8 @@
   };
   burger && burger.addEventListener("click", () => {
     const open = burger.getAttribute("aria-expanded") !== "true";
+    // menu zaczyna się tuż pod nagłówkiem — pasek sezonowy może mieć 1 lub 2 linie albo być już przewinięty
+    if (open) document.documentElement.style.setProperty("--nav-top", Math.max(0, header.getBoundingClientRect().bottom) + "px");
     burger.setAttribute("aria-expanded", String(open));
     nav.classList.toggle("is-open", open);
     document.body.classList.toggle("nav-open", open);
